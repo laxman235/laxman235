@@ -87,21 +87,6 @@ A full-stack, enterprise-grade multi-agent autonomous engineering platform.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=laxman235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman235&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxman235&theme=tokyonight&hide_border=true" width="94%" />
-</div>
-
----
-
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/laxman235">Laxman</a></sub>
 </div>
