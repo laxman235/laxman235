@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxman235)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Laxman235/)
 [![Portfolio / Live Demo](https://img.shields.io/badge/Live_App-CareerPilot_AI-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://careerpilot-ai-cd651.web.app)
 
 </div>
@@ -84,6 +85,34 @@ A full-stack, enterprise-grade multi-agent autonomous engineering platform.
 - **Autonomous Engineering Team**: 6 specialized AI subagents (Analyst, Task Planner, Developer, Tester, Reviewer, and Git Manager) collaborating autonomously.
 - **Self-Healing Code Execution**: Automatically isolates build & test failures, applies runtime repairs, and re-validates before creating GitHub Pull Requests.
 - **Production Full-Stack**: Deployed live on Firebase and Render with BCrypt authentication, REST endpoints, and automated CI/CD pipelines.
+
+---
+
+### 🧩 Competitive Programming & Problem Solving
+
+<div align="center">
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Laxman235-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Laxman235/)
+[![Contest Rating](https://img.shields.io/badge/Contest_Rating-1599_(Top_24.7%25)-3178C6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Laxman235/)
+[![Problems Solved](https://img.shields.io/badge/Solved-350%2B_Problems-22C55E?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Laxman235/)
+
+<br/>
+
+<a href="https://leetcode.com/u/Laxman235/">
+  <img src="https://leetcard.jacoblin.cool/Laxman235?theme=dark&font=Fira%20Code&ext=contest" alt="Laxman235 LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+| Metric | Details |
+| :--- | :--- |
+| 🏆 **Contest Rating** | **1,599** (Top 24.71% Global) |
+| 🎯 **Problems Solved** | **350+ Total** (🟢 134 Easy • 🟡 158 Medium • 🔴 58 Hard) |
+| ☕ **Core Language** | **Java** (329+ problems solved) |
+| 🧠 **Advanced Specialization** | **Dynamic Programming** (46+ solved), Data Structures & Algorithms |
+| 🏅 **Badges & Consistency** | **5 Badges** (including **100 Days Badge 2025**) |
+
+</div>
 
 ---
 
